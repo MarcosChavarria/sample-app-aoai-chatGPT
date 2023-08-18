@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/73c3f795-f786-4361-b20b-0c448387370a/resourceGroups/Auditoria_RG/providers/Microsoft.Web/sites/AuditoriaGPT",
+    "appService.deploySubpath": "."
+}
